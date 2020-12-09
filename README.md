@@ -17,6 +17,6 @@ Allow the process to complete and verify the Python version was installed sucess
 ## To Run this 
 * Download the Repository as ZIP from GitHub.
 * Or Open Terminal and type
-  |'git clone https://github.com/shreeeee81/Parking-Lot.git'|
+  git clone https://github.com/shreeeee81/Parking-Lot.git 
 * Run the command
-python Main.py
+  python Main.py
