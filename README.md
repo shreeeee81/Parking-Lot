@@ -8,11 +8,11 @@ A Command Line Interface for inscribing the car and driver information of a Park
 ## Installing Python 3
 Now you can start the installation of Python 3.8 with the command:
 
- sudo apt install python3.8
+* sudo apt install python3.8
  
 Allow the process to complete and verify the Python version was installed sucessfully:
 
- python ––version
+* python ––version
  
 ## To Run this 
 * Download the Repository as ZIP from GitHub.
